@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue)](https://www.python.org/) 
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/<your-username>/multimodal_pipeline)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)]([https://github.com/<your-username>/multimodal_pipeline](https://github.com/Adyasha-Nanda/AI-multimodal-pipeline))
 
 ---
 
