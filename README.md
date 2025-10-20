@@ -1,0 +1,21 @@
+# 🧠 Multimodal AI Inference Pipeline
+
+[![Python](https://img.shields.io/badge/python-3.10+-blue)](https://www.python.org/) 
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/<your-username>/multimodal_pipeline)
+
+---
+
+## 🚀 Project Overview
+
+This project implements a **lightweight multimodal AI inference pipeline** that combines **object detection** and **OCR** in real-time.  
+The pipeline is designed to be **edge-friendly**, optimised for performance, and easy to deploy.
+
+**Core Features:**
+- Input: Image file or live webcam feed
+- Object Detection: YOLOv8-nano (fast and lightweight)
+- OCR (Text Recognition): EasyOCR (robust for multiple fonts)
+- Optimisations: ONNX quantisation, FPS & resource measurement
+- Deployment Simulation: Docker container with CPU/RAM caps
+
+**Pipeline Flow:**
