@@ -18,3 +18,4 @@ The pipeline is designed to be **edge-friendly**, optimised for performance, and
 - Deployment Simulation: Docker container with CPU/RAM caps
 
 **Pipeline Flow:**
+[Input Image/Webcam Frame]->[YOLOv8 Object Detector]->[Crop each detected object]->[OCR]->[Overlay boxes + text on frame]->[Display or Save Frame]
