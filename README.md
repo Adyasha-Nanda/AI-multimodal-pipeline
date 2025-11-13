@@ -8,7 +8,7 @@
 ## 🚀 Project Overview
 
 This project implements a **lightweight multimodal AI inference pipeline** that combines **object detection** and **OCR** in real-time.  
-The pipeline is designed to be **edge-friendly**, optimised for performance, and easy to deploy.
+The pipeline is designed to be optimised for performance, and easy to deploy.
 
 **Core Features:**
 - Input: Image file or live webcam feed
