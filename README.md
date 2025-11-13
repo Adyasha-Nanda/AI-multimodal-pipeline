@@ -14,8 +14,7 @@ The pipeline is designed to be **edge-friendly**, optimised for performance, and
 - Input: Image file or live webcam feed
 - Object Detection: YOLOv8-nano (fast and lightweight)
 - OCR (Text Recognition): EasyOCR (robust for multiple fonts)
-- Optimisations: ONNX quantisation, FPS & resource measurement
-- Deployment Simulation: Docker container with CPU/RAM caps
+
 
 **Pipeline Flow:**
 [Input Image/Webcam Frame]->[YOLOv8 Object Detector]->[Crop each detected object]->[OCR]->[Overlay boxes + text on frame]->[Display or Save Frame]
